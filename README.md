@@ -1,6 +1,6 @@
 # About me
 ## Hi there 👋 My name is Ricky. I am a Junior CS student at FAU.
-### I enjoy lifting weights and running. 
+### I am currently learning about Mobile App Development under Dr. Jaramillo. 
 <!--
 **jliruan2021/jliruan2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
