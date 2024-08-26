@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+## Hi there 👋 My name is Ricky. I am a CS student at FAU
 
 <!--
 **jliruan2021/jliruan2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
